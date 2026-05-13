@@ -10,7 +10,7 @@ State sweep canonical: `~/.sovereign/retrospective/state-sweep-2026-05-12.json`
 
 | #   | Repo | Created | Lang | HQ-local | Status |
 |-----|------|---------|------|----------|--------|
-| 001 | `ashira-submission` | 2025-05-18 | - | — | pending |
+| 001 | `ashira-submission` | 2025-05-18 | - | — | [completed](audits/001-ashira-submission.md) |
 | 002 | `Cross-system-anomaly` | 2025-05-21 | - | — | pending |
 | 003 | `Spiral-Codex-Repository` | 2025-05-22 | - | — | pending |
 | 004 | `Gift_to_Quantum_Computing` | 2025-05-23 | - | — | pending |
